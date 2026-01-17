@@ -23,7 +23,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "work.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "", sidebaricon: }
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "chen395@uwm.edu"}
