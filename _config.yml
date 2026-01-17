@@ -9,9 +9,9 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: false                # display a grey frame on large screens
+show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: true            # remove all clutter
+show_minimal: false            # remove all clutter
 
 #show_frame: "/assets/images/background.svg"
 
@@ -22,8 +22,8 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "chen395@uwm.edu"}
+  - {title: Github, icon: github, url: "https://cc-chen122.github.io"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
