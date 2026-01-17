@@ -20,7 +20,7 @@ show_minimal: false            # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "", title: "CV",sidebaricon: home}
   - {title: "Projects", file:"/projects.md"}
-  - {title: "About", file: "/blog.md"}
+  - {title: "Blog", file: "/blog.md" }
   
 
 
