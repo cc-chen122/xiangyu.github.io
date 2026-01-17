@@ -19,7 +19,6 @@ show_minimal: false            # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "", title: "CV",sidebaricon: home}
-  - {file: "projects.html",icon: home}
   - {file: "README.md", sidebaricon: address-card}
   
 
