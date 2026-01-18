@@ -2,5 +2,5 @@
 layout: page
 title: "About"
 ---
-An introduction is coming...
+## Being A Good Person
 
